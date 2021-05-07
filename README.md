@@ -13,7 +13,7 @@ I love to explore and learn about new things.
 - Containerization using **Docker**.
 
 
-## 🌈Habit
+## 🌈Habits
 
 * Marathon.
 * Backpacking.
