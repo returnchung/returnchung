@@ -7,17 +7,19 @@ I love to explore and learn about new things.
 
 ## ⚡️Technologies
 - Backend development using **Python**.
-- Web application framework using **Flask and Django**.
+- Web application framework using **FastAPI, Flask or Django**.
 - Mobile application development using **Swift**.
 - Creating scalable cloud architecture using **AWS**.
 - Containerization using **Docker**.
-
+- Container-Orchestration using **Kubernetes**.
+- Task-queue using **Redis-Queue**
 
 ## 🌈Habits
 
-* Marathon.
-* Backpacking.
+* Marathon. 🏃
+* Backpacking. ⛰
+* Pour Over Coffee. ☕️
 
 ## 📚Learning
-- NodeJS
-- Go
+- Go 
+- NodeJS 
