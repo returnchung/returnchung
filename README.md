@@ -11,7 +11,7 @@ I love to explore and learn about new things.
 - Mobile application development using **Swift**.
 - Creating scalable cloud architecture using **AWS**.
 - Containerization using **Docker**.
-- Container-Orchestration using **Kubernetes**.
+- Container orchestration using **Kubernetes**.
 - Task-queue using **Redis-Queue**.
 
 ## 🌈Habits
