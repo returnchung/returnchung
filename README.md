@@ -12,7 +12,7 @@ I love to explore and learn about new things.
 - Creating scalable cloud architecture using **AWS**.
 - Containerization using **Docker**.
 - Container-Orchestration using **Kubernetes**.
-- Task-queue using **Redis-Queue**
+- Task-queue using **Redis-Queue**.
 
 ## 🌈Habits
 
