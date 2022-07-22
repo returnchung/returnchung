@@ -11,13 +11,16 @@ I love to explore and learn about new things.
 - Mobile application development using **Swift**.
 - Creating scalable cloud architecture using **AWS**.
 - Containerization using **Docker**.
-- Container orchestration using **Kubernetes**.
+- Orchestration using **Kubernetes**.
 - Task-queue using **Redis-Queue**.
+- PubSub using: **AWS SNS**.
+- Favorite IDE: **Sublime Text**.
 
 ## 🌈Habits
 
 * Marathon. 🏃
 * Backpacking. ⛰
+* Yoga. 🧘🏻‍♂️
 * Pour Over Coffee. ☕️
 
 ## 📚Learning
