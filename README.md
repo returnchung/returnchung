@@ -25,4 +25,7 @@ I love to explore and learn about new things.
 
 ## 📚Learning
 - Go 
-- NodeJS 
+- NodeJS
+
+## Certification
+- Certified Kubernetes Administrator
