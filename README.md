@@ -28,4 +28,4 @@ I love to explore and learn about new things.
 - NodeJS
 
 ## Certification
-- Certified Kubernetes Administrator
+- Certified Kubernetes Administrator(CKA).
